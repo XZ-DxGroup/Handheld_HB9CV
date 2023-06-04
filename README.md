@@ -1,5 +1,5 @@
 # About the project
-This is a work in progress (mainly 3DCAD) project of a handheld directive antenna based on the HB9CV design. 
+This is a work in progress project, mainly involving 3DCAD, for a handheld directive antenna based on the HB9CV design. 
 
 
 ## Roadmap
