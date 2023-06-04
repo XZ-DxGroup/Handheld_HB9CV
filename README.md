@@ -6,7 +6,7 @@ This is a work in progress (mainly 3DCAD) project of a handheld directive antenn
 
 - [ ] Make a new design with the welded radials.
 - [ ] Make a list of the needed material and tools. 
-- [ ] Ask vash if attenuators migh work in this application.
+- [ ] Ask Vash if attenuators might work in this application.
 - [ ] Actually make the thing.
 - [ ] Make a 3D design of the handle.  
    
