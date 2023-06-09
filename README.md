@@ -4,11 +4,12 @@ This is a work in progress project, mainly involving 3DCAD, for a handheld direc
 
 ## Roadmap
 
-- [ ] Make a new design with the welded radials.
+- [x] Make a new design with the welded radials.
+     - Also added threaded grains 
 - [ ] Make a list of the needed material and tools.
-- [ ] Kindly ask ANSYS for radiation paterns. 
+- [x] Kindly ask ANSYS for radiation paterns. 
 - [x] Ask Vash if attenuators might work in this application.
-     - [x] Yes, it does, but apparently I cannot use switches to commute between the attenuators :(
+     - Yes, it does, but apparently I cannot use switches to commute between the attenuators :(
 - [ ] Actually make the thing.
 - [ ] Make a 3D design of the handle.  
    
